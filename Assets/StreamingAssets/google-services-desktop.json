@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29831210410",
+    "firebase_url": "https://digilab-fyp-sana-bajwa-hanan-default-rtdb.firebaseio.com",
+    "project_id": "digilab-fyp-sana-bajwa-hanan",
+    "storage_bucket": "digilab-fyp-sana-bajwa-hanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29831210410:android:62294ba6afe6e5e46d37d3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.DigiLabARTry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29831210410-jflr5lrjmi4457l3spc8oqm53ag8qiif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wAoFhV752CieKVjAbx_P6ceBMH0MB_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29831210410-jflr5lrjmi4457l3spc8oqm53ag8qiif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
